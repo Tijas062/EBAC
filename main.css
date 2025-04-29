@@ -1,0 +1,10 @@
+header li {
+    display: inline;
+}
+header ul {
+    padding: 0;
+}
+.articles article h3 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
