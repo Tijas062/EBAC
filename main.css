@@ -17,5 +17,10 @@ header ul {
 }
 .article article a {
     text-decoration: none;
-    color: blue;
+    color: red;
+    background-color: black;
+}
+
+.article article a:hover{
+    text-decoration: underline;
 }
