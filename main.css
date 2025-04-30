@@ -4,10 +4,18 @@ header li {
 header ul {
     padding: 0;
 }
-.articles article h3 {
+.article article {
+    background-color: gray;
+    color: blue;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.article article h3 {
     margin-top: 5px;
     margin-bottom: 5px;
 }
-.articles article a {
+.article article a {
     text-decoration: none;
+    color: blue;
 }
